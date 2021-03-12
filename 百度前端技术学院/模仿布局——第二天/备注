@@ -1,3 +1,5 @@
+模仿的是这个简历：chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=http%3A%2F%2Fzhangwenli.com%2Fcv%2FWeb%2520Front-End%2520Wenli%2520Zhang.pdf
+
 实现了一部分，旁边的不过是照葫芦画瓢，便没有完成。
 
 如果只是搞一个不可变大变小的简历，那么十分简单，只需要固化数据即可，
